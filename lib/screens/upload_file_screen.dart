@@ -13,7 +13,7 @@ class UploadFileScreen extends StatefulWidget {
   State<UploadFileScreen> createState() => _UploadFileScreenState();
 }
 
-// Arrogante, Pepito
+// Egot, Pepito
 //This code defines the state class _UploadFileScreenState, which is associated
 //with the UploadFileScreen widget. It includes methods for selecting a file using
 //FilePicker and uploading it to Firebase Storage. The uploadFile method converts
@@ -56,7 +56,7 @@ class _UploadFileScreenState extends State<UploadFileScreen> {
     });
   }
 
-  //Zulueta, Egot
+  //Zulueta, Arrogante
   //This code overrides the build method of the _UploadFileScreenState class.
   //It returns a Scaffold widget with an app bar and a body that consists of a
   //centered Column. Inside the column, it displays the selected file (if any) as
